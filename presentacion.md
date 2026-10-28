@@ -3,3 +3,5 @@
 - Nombre: Mohamed Oulad
 - Ciclo: 1.º DAW
 - Módulo: Entornos de Desarrollo
+## Práctica completada
+He sincronizado cambios entre un repositorio local y un repositorio remoto.
