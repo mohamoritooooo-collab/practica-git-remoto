@@ -1,5 +1,4 @@
 public class Mensaje {
     public static void main(String[] args) {
-        System.out.println("Primer commit desde NetBeans");
-    }
+        System.out.println("Segundo commit realizado desde Visual");
 }
