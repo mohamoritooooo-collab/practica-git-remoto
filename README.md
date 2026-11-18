@@ -12,3 +12,6 @@ Primera práctica con repositorios remotos de Git
 ## Trabajo con IDE
 
 Este repositorio también se ha gestionado desde Apache NetBeans.
+## Trabajo con IDE
+
+Este repositorio también se ha gestionado desde Visual STudio.****
